@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Keep it darth with darth bunny
 
 You can use the [editor on GitHub](https://github.com/DARTHBUNNY/hack-day/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
